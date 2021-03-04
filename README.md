@@ -1,5 +1,5 @@
 # CodeWars---List-Filtering
-Linked list Code wars challenge solved with javascript
+ list filtering: Code wars challenge solved with javascript
 
 
 Algo Description: 
